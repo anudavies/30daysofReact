@@ -33,8 +33,8 @@ class App extends React.Component {
       title: 'Getting Started React',
       subtitle: 'JavaScript Library',
       author: {
-        firstName: 'Asabeneh',
-        lastName: 'Yetayeh',
+        firstName: 'David',
+        lastName: 'Egbebunmi',
       },
       date: new Date(),
     }
